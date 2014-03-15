@@ -33,7 +33,7 @@ NSString *ret;
 
 -(void) playMetronome:(NSString*)frequency{
     //do all the heavy lifting
-    int freq = frequency.intValue;
+    int freq = [frequency intValue];
     
     return;
 }
