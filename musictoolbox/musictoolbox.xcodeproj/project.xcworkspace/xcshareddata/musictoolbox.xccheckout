@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E28CF96E-A6F5-4EC3-B91F-ABB21C4E2308</string>
+	<key>IDESourceControlProjectName</key>
+	<string>musictoolbox</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FC792DB2-7ABC-4D64-87D8-C30151EA29CC</key>
+		<string>https://github.com/vnataraj/musictoolbox.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>musictoolbox/musictoolbox.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FC792DB2-7ABC-4D64-87D8-C30151EA29CC</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/vnataraj/musictoolbox.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FC792DB2-7ABC-4D64-87D8-C30151EA29CC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FC792DB2-7ABC-4D64-87D8-C30151EA29CC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>musictoolbox</string>
+		</dict>
+	</array>
+</dict>
+</plist>
